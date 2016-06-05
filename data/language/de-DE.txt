@@ -4055,11 +4055,11 @@ STR_5751    :Keine Daten
 STR_5752    :{OUTLINE}{RED}{STRING} hat das Spiel verlassen
 STR_5753    :{OUTLINE}{RED}{STRING} hat das Spiel verlassen ({STRING})
 STR_5754    :Unzulässiger Spielername
-STR_5755    :Inkompatible Softwareversion
+STR_5755    :Inkompatible Softwareversion (Server nutzt {STRING})
 STR_5756    :Falsches Passwort
 STR_5757    :Server voll
 STR_5758    :{OUTLINE}{GREEN}{STRING} hat das Spiel betreten
-STR_5759    :Karte herunterladen ... ({INT32} / {INT32}) KiB
+STR_5759    :Karte wird heruntergeladen ... ({INT32} / {INT32}) KiB
 STR_5760    :Hongkong-Dollar (HK$)
 STR_5761    :Neuer Taiwan-Dollar (NT$)
 STR_5762    :Chinesischer Yuan (CN{YEN})
